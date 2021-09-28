@@ -76,3 +76,6 @@ GPS2 Main Project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
 *.log
 GPS2 Main Project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
 *.log
+GPS2 Main Project/Library/ArtifactDB
+GPS2 Main Project/Library/Search/transactions.db
+GPS2 Main Project/Library/SourceAssetDB
